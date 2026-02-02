@@ -26,7 +26,6 @@ summary{
 
 .Lista-pestañas a{
     color: #d62020;
-    border: 5px dotted rgb(197, 109, 109);
     font-size: 30px;
     
 }
@@ -248,7 +247,6 @@ button{
     color: #ff2323;
     text-decoration: none;
     font-size: 30px;
-    border: 5px dotted rgb(197, 109, 109);
     
 }
 
@@ -262,7 +260,6 @@ button{
     color: #ff2323;
     text-decoration: none;
     font-size: 30px;
-    border: 5px dotted rgb(197, 109, 109);
 }
 
 .contact-container {
@@ -392,4 +389,10 @@ button{
 .pagina-proceso ul,
 .pagina-proceso .bloque-paso {
     animation: fadeUpProceso 0.7s ease both;
+}
+.pagina-proceso h2,
+.pagina-proceso ul,
+.pagina-proceso .bloque-paso {
+    animation: fadeUpProceso 0.7s ease both;
+
 }
